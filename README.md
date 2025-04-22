@@ -28,12 +28,6 @@ Access the live game here: [**Play Now**](https://scintillating-sable-bb226d.net
 - 🌍 Multiple language support  
 - 🔠 Difficulty levels (e.g. 6-letter, themed words)
 
----
-
-Want me to generate a GitHub repo README template with badges and a clone/install guide too?
-
-
-
 
 # Getting Started with Create React App
 
