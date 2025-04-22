@@ -19,7 +19,7 @@ Colors guide your guesses—green means correct letter & spot, yellow means corr
 
 ## 📦 Deployment
 
-Access the live game here: [**Play Now**]((https://scintillating-sable-bb226d.netlify.app/))  
+Access the live game here: [**Play Now**](https://scintillating-sable-bb226d.netlify.app/)  
 
 ## 🚧 Future Improvements
 
